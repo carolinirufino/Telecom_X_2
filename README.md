@@ -94,7 +94,9 @@ A análise demonstrou que a evasão não acontece ao acaso — ela responde a pa
 
 **Carolini Rufino**  
 Estudante de Data Science | Secretária | Bacharel em Administração de Empresas
+
 📧 carolinirufino@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/carolinirufino)
 
 ---
