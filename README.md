@@ -74,6 +74,12 @@ A análise demonstrou que a evasão não acontece ao acaso — ela responde a pa
 
 ---
 
+## 💻 Como Usar
+
+- Clone o repositório
+- Abra o notebook .ipynb no Jupyter ou Google Colab
+- Execute as células para seguir a análise passo a passo
+
 ## 🧾 Requisitos
 
 - Python 3.x
