@@ -99,7 +99,7 @@ A análise demonstrou que a evasão não acontece ao acaso — ela responde a pa
 ## ✍️ Autoria
 
 **Carolini Rufino**  
-Estudante de Data Science | Secretária | Bacharel em Administração de Empresas
+Estudante de Data Science | Bacharel em Administração de Empresas
 
 📧 carolinirufino@gmail.com
 
